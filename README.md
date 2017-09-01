@@ -1,2 +1,2 @@
 # django-blongo
-this is a blong powered by django and MongoDB
+this is a blog powered by django and MongoDB
